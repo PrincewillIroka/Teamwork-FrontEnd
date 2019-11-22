@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/PrincewillIroka.github.io/teamwork-frontend/static/css/main.afde9bf1.chunk.css",
-    "main.js": "/PrincewillIroka.github.io/teamwork-frontend/static/js/main.7c63c6dd.chunk.js",
-    "main.js.map": "/PrincewillIroka.github.io/teamwork-frontend/static/js/main.7c63c6dd.chunk.js.map",
-    "runtime-main.js": "/PrincewillIroka.github.io/teamwork-frontend/static/js/runtime-main.9de3f621.js",
-    "runtime-main.js.map": "/PrincewillIroka.github.io/teamwork-frontend/static/js/runtime-main.9de3f621.js.map",
-    "static/css/2.1f156bdb.chunk.css": "/PrincewillIroka.github.io/teamwork-frontend/static/css/2.1f156bdb.chunk.css",
-    "static/js/2.13deab80.chunk.js": "/PrincewillIroka.github.io/teamwork-frontend/static/js/2.13deab80.chunk.js",
-    "static/js/2.13deab80.chunk.js.map": "/PrincewillIroka.github.io/teamwork-frontend/static/js/2.13deab80.chunk.js.map",
-    "index.html": "/PrincewillIroka.github.io/teamwork-frontend/index.html",
-    "precache-manifest.1a6b0bfa0182bd0458231002a62ded23.js": "/PrincewillIroka.github.io/teamwork-frontend/precache-manifest.1a6b0bfa0182bd0458231002a62ded23.js",
-    "service-worker.js": "/PrincewillIroka.github.io/teamwork-frontend/service-worker.js",
-    "static/css/2.1f156bdb.chunk.css.map": "/PrincewillIroka.github.io/teamwork-frontend/static/css/2.1f156bdb.chunk.css.map",
-    "static/css/main.afde9bf1.chunk.css.map": "/PrincewillIroka.github.io/teamwork-frontend/static/css/main.afde9bf1.chunk.css.map",
-    "static/media/logo.png": "/PrincewillIroka.github.io/teamwork-frontend/static/media/logo.3680027d.png",
-    "static/media/undraw_interaction_design_odgc.svg": "/PrincewillIroka.github.io/teamwork-frontend/static/media/undraw_interaction_design_odgc.dbc96d1a.svg"
+    "main.css": "/teamwork-frontend/static/css/main.afde9bf1.chunk.css",
+    "main.js": "/teamwork-frontend/static/js/main.7c63c6dd.chunk.js",
+    "main.js.map": "/teamwork-frontend/static/js/main.7c63c6dd.chunk.js.map",
+    "runtime-main.js": "/teamwork-frontend/static/js/runtime-main.621c0826.js",
+    "runtime-main.js.map": "/teamwork-frontend/static/js/runtime-main.621c0826.js.map",
+    "static/css/2.1f156bdb.chunk.css": "/teamwork-frontend/static/css/2.1f156bdb.chunk.css",
+    "static/js/2.190413ff.chunk.js": "/teamwork-frontend/static/js/2.190413ff.chunk.js",
+    "static/js/2.190413ff.chunk.js.map": "/teamwork-frontend/static/js/2.190413ff.chunk.js.map",
+    "index.html": "/teamwork-frontend/index.html",
+    "precache-manifest.3e136f3bb734870859fad969d454fad5.js": "/teamwork-frontend/precache-manifest.3e136f3bb734870859fad969d454fad5.js",
+    "service-worker.js": "/teamwork-frontend/service-worker.js",
+    "static/css/2.1f156bdb.chunk.css.map": "/teamwork-frontend/static/css/2.1f156bdb.chunk.css.map",
+    "static/css/main.afde9bf1.chunk.css.map": "/teamwork-frontend/static/css/main.afde9bf1.chunk.css.map",
+    "static/media/logo.png": "/teamwork-frontend/static/media/logo.3680027d.png",
+    "static/media/undraw_interaction_design_odgc.svg": "/teamwork-frontend/static/media/undraw_interaction_design_odgc.dbc96d1a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9de3f621.js",
+    "static/js/runtime-main.621c0826.js",
     "static/css/2.1f156bdb.chunk.css",
-    "static/js/2.13deab80.chunk.js",
+    "static/js/2.190413ff.chunk.js",
     "static/css/main.afde9bf1.chunk.css",
     "static/js/main.7c63c6dd.chunk.js"
   ]
