@@ -24,7 +24,8 @@ class Login extends Component {
 
     componentDidMount() {
         if (this.state.userData) {
-            window.location.replace("/")
+            // window.location.replace("/")
+            this.props.history.push('/')
         }
     }
 
@@ -75,7 +76,8 @@ class Login extends Component {
                         if (status === 'success') {
                             // await this.props.populateUserData(data)
                             await sessionStorage.setItem('userData', JSON.stringify(data))
-                            window.location.replace("/")
+                            // window.location.replace("/")
+                            this.props.history.push('/')
                         } else {
                             this.setState({
                                 message: 'Invalid login',

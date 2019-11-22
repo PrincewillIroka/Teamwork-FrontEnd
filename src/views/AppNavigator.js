@@ -14,7 +14,8 @@ class AppNavigator extends Component {
 
     componentDidMount() {
         if (!this.state.userData) {
-            window.location.replace("/login")
+            // window.location.replace("/login")
+            this.props.history.push('/login')
         }
     }
 
